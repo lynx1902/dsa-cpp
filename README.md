@@ -1,2 +1,2 @@
 # dsa-cpp
-This repo contains the code for data structures and algorithms in C++.
+This repo contains code from a Udemy course of Data Structures and Algorithms in C++.
